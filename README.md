@@ -22,7 +22,7 @@ Clone this repository using git bash:
 https://github.com/bartosztkowalski/rap-generator.git
 ```
 
-The training set of lyrics must be attached to program to generate lyrics.
+The training set of lyrics must be attached to program (.txt format) to generate lyrics.
 
 ## Output
 In this example Mac Miller songs dataset was used to train the model.
